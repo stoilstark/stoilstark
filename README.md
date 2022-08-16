@@ -1,26 +1,23 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
-<div id="header" align="center"> ∀, is either a 🦆 or -🦆 
+  <img src="https://media.giphy.com/media/rtmCxIjDGgjrG2EZeP/giphy.gif" width="400"/> 
 </div>
 <div  align="center">
 <img src="https://komarev.com/ghpvc/?username=stoilstark&style=flat-square&color=blue" alt=""/>
 <h1>
- Hi there stranger
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <img src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif" width="600" height="300"/>
+  <img src="https://preview.redd.it/qbe8o3ex7l861.jpg?auto=webp&s=6b4c59424a3148c76413e9a7e7ce2da749909b9c" height="300"/>
  
   ---
   <div align="left">
 
 ### 🏳️‍🌈 🚶‍♂️ About Me :
     
-  I am Not a Full Stack Developer, but a junior coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria, live and work in the UK
+  I am not a coder yet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria, live and work in the UK
  - :telescope: I’m learning to be a developer and hope to understand what I'm doing and not just copy other people's code and change it a little.
 
 - :seedling: Exploring Technical Content Writing, and how to continue paying rent in the current economic climate.
 
-- :zap: In my free time, I read tech articles on how to make github profiles.
+- :zap: In my free time, I read tech articles on how to make github profiles, and many other things.
 
 - :mailbox: How to reach me: Ordinary methods work (such as extending your hand, shouting my name, and whistling) otherwise pls don't, thx
 - ---
@@ -44,8 +41,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 just joking...none of those above. I do, however, speak fluent Bulgarian, English, and logic; and good enough French, Spanish, Russian. Learning Python soon.
-
----
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stoilstark&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=090202)](https://git.io/streak-stats)
-  </div>
