@@ -1,11 +1,22 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/rtmCxIjDGgjrG2EZeP/giphy.gif" width="400"/> 
+  <img src="https://media.giphy.com/media/rtmCxIjDGgjrG2EZeP/giphy.gif" width="320"/> 
+</div>
+<div id="badges"  align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 <div  align="center">
 <img src="https://komarev.com/ghpvc/?username=stoilstark&style=flat-square&color=blue" alt=""/>
 <h1>
 </h1>
-  <img src="https://preview.redd.it/qbe8o3ex7l861.jpg?auto=webp&s=6b4c59424a3148c76413e9a7e7ce2da749909b9c" height="300"/>
+  <img src="https://media.giphy.com/media/1DogfMHafx1vlCqdSP/giphy.gif" height="400"/>
  
   ---
   <div align="left">
