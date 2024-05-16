@@ -23,7 +23,7 @@
 
 ### 🏳️‍🌈 🚶‍♂️ About Me :
     
-  I am not a coder yet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria, live and work in the UK
+  I am almost a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria, live and work in the UK
  - :telescope: I’m learning to be a developer and hope to understand what I'm doing and not just copy other people's code and change it a little.
 
 - :seedling: Exploring Technical Content Writing, and how to continue paying rent in the current economic climate.
@@ -51,4 +51,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-just joking...none of those above. I do, however, speak fluent Bulgarian, English, and logic; and good enough French, Spanish, Russian. Learning Python soon.
+just joking...none of those above. I do, however, speak fluent Bulgarian, English, and logic; and good enough French, Spanish, Russian. Python, PHP, SQL, HTML and more soon.
