@@ -51,4 +51,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-just joking...none of those above. I do, however, speak fluent Bulgarian, English, and logic; and good enough French, Spanish, Russian. Python, PHP, SQL, HTML and more soon.
+just joking...none of those above. I do, however, speak fluent Bulgarian, English, and logic; and good enough French, Spanish, Russian. 
+
+Learning Python and node.js atm, and currently working with APIs, via Postman
